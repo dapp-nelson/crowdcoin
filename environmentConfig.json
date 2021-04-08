@@ -1,0 +1,11 @@
+{
+    "dev": {
+        "ethereum": {
+            "testnet": {
+                "factoryContractAddress": "0xaCE60b84C29ef19364876C2955a11323Cbf1A4d6",
+                "seedPhrase": "step profit surge saddle vault chronic apology public impose transfer emotion shoulder",
+                "infuraApi": "https://rinkeby.infura.io/v3/dd6dabd904c44c478dc6bfe7b22ca036"        
+            }
+        }
+    }
+}
